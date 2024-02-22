@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    $npm = "25";
+    $npm = 25;
 
     echo "Aku adalah angka <b>$npm</b><br>";
     echo "Jika aku dikali 5, maka aku sekarang menjadi <b>".($npm *= 5)."</b><br>";
